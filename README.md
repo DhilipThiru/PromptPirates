@@ -1,3 +1,5 @@
+
+
 # Quiz Website
 
 A simple and interactive Quiz Website designed to test your knowledge. This project is built using **HTML**, **CSS**, and **JavaScript**, offering an engaging interface and seamless question handling.
